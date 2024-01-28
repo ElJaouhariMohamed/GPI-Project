@@ -12,7 +12,7 @@ The National School of Applied Science of Khouribga students did this project fo
 5. Dashboard creation for visualization and conclusions
 
 > [!NOTE]
-> For anyone interested in the project, the following Report contains details of each step and our work conclusion : [Click Here](https://github.com/ElJaouhariMohamed/GPI-Project/tree/main/rapport)
+> For anyone interested in the project, the following Report contains details of each step and our work conclusion : [Click Here]([https://github.com/ElJaouhariMohamed/GPI-Project/tree/main/rapport](https://github.com/ElJaouhariMohamed/GPI-Project/blob/main/rapport/Projet%20GPI_compressed.pdf)https://github.com/ElJaouhariMohamed/GPI-Project/blob/main/rapport/Projet%20GPI_compressed.pdf)
 
 ## 4) Collaborators :
 
