@@ -14,7 +14,7 @@ The National School of Applied Science of Khouribga students did this project fo
 > [!NOTE]
 > For anyone interested in the project, the following Report contains details of each step and our work conclusion : [Click Here](https://github.com/ElJaouhariMohamed/GPI-Project/blob/main/rapport/Projet%20GPI_compressed.pdf)
 
-## 4) Collaborators :
+## 3) Collaborators :
 
 - [El Amrani Ilyas](https://github.com/ELilyasamrani)
 - [Guerrab Mouna](https://github.com/mounague)
