@@ -2,17 +2,18 @@
 
 ## 1) Introduction : 
 
-This Project was done for academic purpose by students in National School of Applied Science of Khouribga . the goal of the project was to show the power of Machine Learning algorithms in Maintenance cost reduction and optimizing machines reliability.
+The National School of Applied Science of Khouribga students did this project for academic purposes. the goal of the project was to show the power of Machine Learning algorithms in Maintenance cost reduction and optimizing the machine's reliability.
 
 ## 2) Project Steps :
 1. Analyze data and evaluate it
-2. Develop pipeline for data transformation
+2. Develop a pipeline for data transformation
 3. Evaluate multiple ML algorithms and choose the final model
 4. KPIs evaluations
-5. Dashboard creation for vizualisation and conclusions
+5. Dashboard creation for visualization and conclusions
 
 > [!NOTE]
-> For anyone interested in the project, the following Repport contains details of each step and our work conclusion.
+> For anyone interested in the project, the following Report contains details of each step and our work conclusion : [Link to Report](./rapport/Projet GPI_compressed.pdf)
+
 
 ## 4) Collaborators :
 
