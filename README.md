@@ -13,7 +13,6 @@ The National School of Applied Science of Khouribga students did this project fo
 
 > [!NOTE]
 > For anyone interested in the project, the following Report contains details of each step and our work conclusion : [Click Here](https://github.com/ElJaouhariMohamed/GPI-Project/tree/main/rapport)
-(
 
 ## 4) Collaborators :
 
