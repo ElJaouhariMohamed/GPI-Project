@@ -2,7 +2,7 @@
 
 ## 1) Introduction : 
 
-The National School of Applied Science of Khouribga students did this project for academic purposes. the goal of the project was to show the power of Machine Learning algorithms in Maintenance cost reduction and optimizing the machine's reliability.
+This project was done by 4 students of The National School of Applied Science of Khouribga. The goal of the project was to show the power of Machine Learning algorithms in Maintenance cost reduction and optimizing the machine's reliability.
 
 ## 2) Project Steps :
 1. Analyze data and evaluate it
